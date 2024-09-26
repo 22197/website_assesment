@@ -1,0 +1,49 @@
+.hero-image{
+    background-image: url("./images/unnamed\ \(1\).jpg");
+    height: 352px;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.hero-text{
+    color:darkolivegreen;
+    position:absolute;
+    text-align: center;
+    top: 200px;
+    width: 100%;
+    font-size: 300%;
+} 
+
+.two-column{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap:40px;
+}
+
+.image{
+    width: 50%;
+}
+
+.images{
+    width: 100%;
+}
+
+.square-image{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+}
+
+html{
+    background-color: aquamarine;
+}
+
+.content{
+    font-size: 250%;
+}
+
+h3{
+    font-size: 300%;
+}
