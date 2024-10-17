@@ -8,12 +8,13 @@
 
 
 .hero-text{
-    color:darkolivegreen;
+    color:rgb(255, 255, 255);
     position:absolute;
     text-align: center;
-    top: 200px;
+    top: 5px;
     width: 100%;
-    font-size: 300%;
+    font-size: 600%;
+    background-color:rgb(2, 139, 64) ;
 } 
 
 .two-column{
@@ -36,14 +37,32 @@
     gap: 5px;
 }
 
-html{
-    background-color: aquamarine;
+body{
+    margin: 10px 5px 15px 20px;
 }
 
 .content{
-    font-size: 250%;
+    font-size: 200%;
 }
 
 h3{
-    font-size: 300%;
+    font-size: 250%;
+    background:rgb(8, 179, 85);
+}
+
+.bottom{
+    background:rgb(2, 139, 64);
+}
+
+h2{
+    font-size:400%;
+    background-color:rgb(2, 139, 64) ;
+}
+
+html{
+    
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.bottom{
+    
 }
