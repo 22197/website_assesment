@@ -21,6 +21,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap:40px;
+    
 }
 
 .image50{
@@ -52,6 +53,8 @@ body{
 
 .content{
     font-size: 200%;
+    border-style: solid;
+    border: 5px solid #bb7a7a00;
 }
 
 h3{
