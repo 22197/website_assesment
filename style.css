@@ -54,12 +54,13 @@ body{
 .content{
     font-size: 200%;
     border-style: solid;
-    border: 5px solid #bb7a7a00;
+    border: 10px solid #80f080;
+    background:rgb(136, 228, 182);
 }
 
 h3{
     font-size: 250%;
-    background:rgb(58, 182, 119);
+    
 }
 
 .bottom{
@@ -72,12 +73,21 @@ h2{
 }
 
 html{
-    background-color: rgb(90, 201, 159);
+    background-color: rgba(90, 201, 159, 0.5);
     font-family: "Lucida Console", "Courier New", monospace;
 }
 .bottom_two-column{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap:40px;
+    
 }
 
+.bottom{
+    border: 10px solid #80f080;
+    background-color:rgb(136, 228, 182);
+}
+.contents{
+    font-size: 200%;
+    background:rgb(136, 228, 182);   
+}
