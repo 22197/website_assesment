@@ -8,13 +8,13 @@
 
 
 .hero-text{
-    color:rgb(187, 243, 215);
+    color:#191B22;
     position:absolute;
     text-align: center;
     top: 5px;
     width: 100%;
     font-size: 600%;
-    background-color:rgb(30, 164, 96) ;
+    background-color:#57CBCE;
 } 
 
 .two-column{
@@ -54,8 +54,8 @@ body{
 .content{
     font-size: 200%;
     border-style: solid;
-    border: 10px solid #80f080;
-    background:rgb(136, 228, 182);
+    border: 10px solid #53C1C4;
+    background:#5BD4D8;
 }
 
 h3{
@@ -69,25 +69,24 @@ h3{
 
 h2{
     font-size:400%;
-    background-color:rgb(58, 182, 119) ;
+    background-color:#57CBCE;
 }
 
 html{
-    background-color: rgba(90, 201, 159, 0.5);
+    background-color: #9FEADB;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 .bottom_two-column{
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap:40px;
-    
 }
 
 .bottom{
-    border: 10px solid #80f080;
-    background-color:rgb(136, 228, 182);
+    border: 10px solid #53C1C4;
+    background-color:#57CBCE;
 }
 .contents{
     font-size: 200%;
-    background:rgb(136, 228, 182);   
+    background-color:#57CBCE;   
 }
